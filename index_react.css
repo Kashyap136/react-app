@@ -1,0 +1,53 @@
+/* Default Light Mode */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Dark Mode */
+  .dark-mode {
+    background-color: #121212;
+    color: white;
+  }
+  
+  .dark-mode header {
+    background-color: #444;
+  }
+  
+  .dark-mode nav a {
+    color: white;
+  }
+  
+  .dark-mode button {
+    background-color: #555;
+  }
+  
